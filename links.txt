@@ -11,3 +11,7 @@
 # https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
 # https://jasonwatmore.com/post/2018/11/28/nodejs-role-based-authorization-tutorial-with-example-api
 # https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d
+
+# https://nordicapis.com/3-common-methods-api-authentication-explained/
+# https://blog.restcase.com/restful-api-authentication-basics/
+# https://stackoverflow.com/questions/454355/security-of-rest-authentication-schemes
