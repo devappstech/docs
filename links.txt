@@ -4,3 +4,6 @@
 # http://nobrok.com/how-to-build-a-tinder-clone-using-react-native-and-firebase-part-1/
 # https://www.youtube.com/watch?v=MDAdY2LkP_U
 # https://blog.cwrichardkim.com/we-spent-a-year-building-a-dating-app-that-only-lasts-one-week-e6e1a10cedb3
+# https://blog.expo.io/building-hackinder-tinder-for-hackers-1878424ce5ec
+# https://code4startup.com/projects/build-tinder-mobile-app-with-ionic-and-angular
+# https://appkodes.com/how-much-does-it-cost-to-develop-an-app-like-tinder/
