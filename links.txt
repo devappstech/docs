@@ -1,2 +1,5 @@
 # https://codedaily.io/tutorials/33/React-Native-Tinder-like-cards
 # https://www.codementor.io/codementorteam/socketio-player-matchmaking-system-pdxz4apty
+# http://cloneable.io/
+# http://nobrok.com/how-to-build-a-tinder-clone-using-react-native-and-firebase-part-1/
+# https://www.youtube.com/watch?v=MDAdY2LkP_U
