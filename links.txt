@@ -3,3 +3,4 @@
 # http://cloneable.io/
 # http://nobrok.com/how-to-build-a-tinder-clone-using-react-native-and-firebase-part-1/
 # https://www.youtube.com/watch?v=MDAdY2LkP_U
+# https://blog.cwrichardkim.com/we-spent-a-year-building-a-dating-app-that-only-lasts-one-week-e6e1a10cedb3
