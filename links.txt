@@ -7,3 +7,7 @@
 # https://blog.expo.io/building-hackinder-tinder-for-hackers-1878424ce5ec
 # https://code4startup.com/projects/build-tinder-mobile-app-with-ionic-and-angular
 # https://appkodes.com/how-much-does-it-cost-to-develop-an-app-like-tinder/
+
+# https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
+# https://jasonwatmore.com/post/2018/11/28/nodejs-role-based-authorization-tutorial-with-example-api
+# https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d
